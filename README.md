@@ -1,0 +1,1 @@
+### This is a web server implemented by C++, which can be used as a reference and learning. It mainly involves the following knowledge points: multithreading, operating system, computer network, C/C++, data structure, etc.
